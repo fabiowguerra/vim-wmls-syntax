@@ -26,7 +26,7 @@ hi def link wmlsModifier	Type
 hi def link wmlsType		Type
 hi def link wmlsOperator	Operator
 hi def link wmlsBoolean		Boolean
-hi def link wmlsLib		Constant
+hi def link wmlsLib		Identifier
 
 let b:current_syntax = "wmls"
 
